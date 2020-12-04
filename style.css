@@ -1,0 +1,48 @@
+html {
+    font-family: sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+  }
+  
+  td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+  caption {
+    padding: 10px;
+  }
+  
+  .mp04 {
+    background-color: rgb(221, 146, 6);
+  }
+  .mp06 {
+    background-color: rgb(38, 93, 145);
+  }
+  .mp08 {
+    background-color: rgb(240, 225, 17);
+  }
+  .mp07 {
+    background-color: rgb(69, 153, 40);
+  }
+  .t {
+    background-color: gray;
+  }
+  .mp12 {
+    background-color: rgb(112, 7, 112);
+  }
+  .mp10 {
+    background-color: red;
+  }
+  .semana {
+    background-color: rgba(84, 130, 199, 0.973);
+  }
